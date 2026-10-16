@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Gauri!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=8338EC&center=true&vCenter=true&width=560&lines=CS+%40+Georgia+Tech;Technical+Product+Manager" alt="CS @ Georgia Tech · Technical Product Manager" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=a09aa6&center=true&vCenter=true&width=560&lines=CS+%40+Georgia+Tech;Technical+Product+Manager" alt="CS @ Georgia Tech · Technical Product Manager" />
 </p>
 
 ### About Me
 
 - **Incoming PM Intern @ Microsoft** (Summer 2027) on Copilot Agents & Platform, working on **Agent 365** and **Agent Cloud**
-- **PM Apprentice @ Microsoft**, shadowing a Principal PM on New Ventures & Commercialization
-- **Google Student Ambassador**, leading the [Gemini Campus Club @ Georgia Tech](https://geminiatgt.web.app)
-- **President, [Product at Georgia Tech](https://productatgt.org)**, the largest product community on campus (400+ members)
+- **x2 PM Fellow @ Microsoft**, New Ventures & Commercialization (Fall 2026) | Office Engineering Direct (Spring 2026)
+- **Google Student Ambassador**, leading the [Gemini Campus Club @ Georgia Tech](https://geminiatgt.org)
+- **President, [Product at Georgia Tech](https://productatgt.org)**, the largest product community on campus (600+ members)
 
 ### Tech stack
 
@@ -56,18 +56,18 @@
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[Heirloom](https://github.com/gaurimenonnn/heirloom)**<br><sub>Best Use of Gemini API</sub> | A memory for student clubs: ask it anything, get answers cited back to the source | Node.js · Express · Gemini |
+| **[Heirloom](https://github.com/gaurimenonnn/heirloom)**<br><sub>Best Use of Gemini API</sub> | Memory you can talk to, built for student orgs | Node.js · Express · Gemini |
 | **[NeuroNest](https://devpost.com/software/neuronest-xsh1pr)**<br><sub>1st Place Design, Hack@WACC</sub> | Find places by how they'll *feel* (noise, light, crowds) | Figma |
-| **[FitFindr](https://www.figma.com/proto/4FjAVa91bQ18dPsmK64jnw/fitfindr?node-id=20-2646)** | From a TikTok outfit to owning it, backed by 8 interviews and usability testing | Figma |
+| **[FitFindr](https://www.figma.com/proto/4FjAVa91bQ18dPsmK64jnw/fitfindr?node-id=20-2646)** | See an outfit you like on Tiktok? Buy every piece with FitFindr. | Figma |
 | **[Remi](https://devpost.com/software/remi-76gsy2)** | A study buddy that quizzes you over iMessage when your calendar is free | React · Express · Gemini |
 | **[GeoGuard](https://geoguardatl.netlify.app)** | Live crime heatmap that warns you before you walk into a risky area | React · Node.js · MongoDB · Maps API |
-| **[illustrAR](https://devpost.com/software/name-placeholder-c9a3sg)** | AR that projects a reference onto paper so you trace it by hand | Figma |
+| **[illustrAR](https://devpost.com/software/name-placeholder-c9a3sg)** | AR that projects an art reference onto paper so you can trace it | Figma |
 
-I also build the sites for the orgs I run: [**geminiatgt**](https://github.com/gaurimenonnn/geminiatgt) and [**productgt**](https://github.com/gaurimenonnn/productgt).
+I also built the websites for the orgs I run: [**geminiatgt**](https://github.com/gaurimenonnn/geminiatgt) and [**productgt**](https://github.com/gaurimenonnn/productgt).
 
 ### Before this
 
-**Microsoft** PM Fellow · **Itential** PM Intern & SWE Intern · **Bits of Good** PM
+**Itential** PM Intern & SWE Intern · **Bits of Good** PM
 
 ### 📫 Say hi
 
