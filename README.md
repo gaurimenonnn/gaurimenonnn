@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gauri 👋</h1>
+<h1 align="center">Hi, I'm Gauri</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=8338EC&center=true&vCenter=true&width=560&lines=Product+manager+who+builds.;Shipping+AI+products.;CS+%40+Georgia+Tech." alt="Product manager who builds. Shipping AI products. CS @ Georgia Tech." />
@@ -8,27 +8,27 @@
   CS (Honors) @ Georgia Tech · I run the research, write the strategy, then build the thing that proves it works.
 </p>
 
-### 🚀 Right now
+### Right now
 
-- 🪟 **Incoming PM Intern @ Microsoft** (Summer 2027) on Copilot Agents & Platform, working on **Agent 365** and **Agent Cloud**
-- 🌱 **PM Apprentice @ Microsoft**, shadowing a Principal PM on New Ventures & Commercialization
-- ✨ **Google Student Ambassador**, leading the [Gemini Campus Club @ Georgia Tech](https://geminiatgt.web.app)
-- 🧩 **President, [Product at Georgia Tech](https://productatgt.org)**, the largest product community on campus (400+ members)
+- **Incoming PM Intern @ Microsoft** (Summer 2027) on Copilot Agents & Platform, working on **Agent 365** and **Agent Cloud**
+- **PM Apprentice @ Microsoft**, shadowing a Principal PM on New Ventures & Commercialization
+- **Google Student Ambassador**, leading the [Gemini Campus Club @ Georgia Tech](https://geminiatgt.web.app)
+- **President, [Product at Georgia Tech](https://productatgt.org)**, the largest product community on campus (400+ members)
 
-### 🛠️ Things I've built
+### Things I've built
 
-| | Project | What it does | Built with |
-|:-:|---|---|---|
-| 🏆 | **[Heirloom](https://github.com/gaurimenonnn/heirloom)**<br><sub>Best Use of Gemini API</sub> | A memory for student clubs: ask it anything, get answers cited back to the source | Node.js · Express · Gemini · Cloud Run |
-| 🏆 | **[NeuroNest](https://devpost.com/software/neuronest-xsh1pr)**<br><sub>1st Place Design, Hack@WACC</sub> | Find places by how they'll *feel* (noise, light, crowds) | Figma · accessibility research |
-| 👗 | **[FitFindr](https://www.figma.com/proto/4FjAVa91bQ18dPsmK64jnw/fitfindr?node-id=20-2646)** | From a TikTok outfit to owning it, backed by 8 interviews and usability testing | Figma · UX research |
-| 💬 | **[Remi](https://devpost.com/software/remi-76gsy2)** | A study buddy that quizzes you over iMessage when your calendar is free | React · Express · Gemini · OAuth |
-| 🗺️ | **[GeoGuard](https://geoguardatl.netlify.app)** | Live crime heatmap that warns you before you walk into a risky area | React · Node.js · MongoDB · Maps API |
-| 🎨 | **[illustrAR](https://devpost.com/software/name-placeholder-c9a3sg)** | AR that projects a reference onto paper so you trace it by hand | Figma · AR |
+| Project | What it does | Built with |
+|---|---|---|
+| **[Heirloom](https://github.com/gaurimenonnn/heirloom)**<br><sub>Best Use of Gemini API</sub> | A memory for student clubs: ask it anything, get answers cited back to the source | Node.js · Express · Gemini · Cloud Run |
+| **[NeuroNest](https://devpost.com/software/neuronest-xsh1pr)**<br><sub>1st Place Design, Hack@WACC</sub> | Find places by how they'll *feel* (noise, light, crowds) | Figma · accessibility research |
+| **[FitFindr](https://www.figma.com/proto/4FjAVa91bQ18dPsmK64jnw/fitfindr?node-id=20-2646)** | From a TikTok outfit to owning it, backed by 8 interviews and usability testing | Figma · UX research |
+| **[Remi](https://devpost.com/software/remi-76gsy2)** | A study buddy that quizzes you over iMessage when your calendar is free | React · Express · Gemini · OAuth |
+| **[GeoGuard](https://geoguardatl.netlify.app)** | Live crime heatmap that warns you before you walk into a risky area | React · Node.js · MongoDB · Maps API |
+| **[illustrAR](https://devpost.com/software/name-placeholder-c9a3sg)** | AR that projects a reference onto paper so you trace it by hand | Figma · AR |
 
 I also build the sites for the orgs I run: [**geminiatgt**](https://github.com/gaurimenonnn/geminiatgt) and [**productgt**](https://github.com/gaurimenonnn/productgt).
 
-### 🧰 Tech stack
+### Tech stack
 
 **Languages**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,9 +69,9 @@ I also build the sites for the orgs I run: [**geminiatgt**](https://github.com/g
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile_%26_Scrum-6DB33F?style=for-the-badge)
 
-### 💼 Before this
+### Before this
 
-**Microsoft** PM Fellow · **Itential** PM Intern & SWE Intern · **Bits of Good** PM · **Georgia Tech** CS TA
+**Microsoft** PM Fellow · **Itential** PM Intern & SWE Intern · **Bits of Good** PM
 
 ### 📫 Say hi
 
