@@ -59,9 +59,7 @@
 | **[Heirloom](https://github.com/gaurimenonnn/heirloom)**<br><sub>Best Use of Gemini API</sub> | Memory you can talk to, built for student orgs | Node.js · Express · Gemini |
 | **[NeuroNest](https://devpost.com/software/neuronest-xsh1pr)**<br><sub>1st Place Design, Hack@WACC</sub> | Find places by how they'll *feel* (noise, light, crowds) | Figma |
 | **[FitFindr](https://www.figma.com/proto/4FjAVa91bQ18dPsmK64jnw/fitfindr?node-id=20-2646)** | See an outfit you like on Tiktok? Buy every piece with FitFindr. | Figma |
-| **[Remi](https://devpost.com/software/remi-76gsy2)** | A study buddy that quizzes you over iMessage when your calendar is free | React · Express · Gemini |
-| **[GeoGuard](https://geoguardatl.netlify.app)** | Live crime heatmap that alerts you when you walk into a risky area | React · Node.js · MongoDB · Maps API |
-| **[illustrAR](https://devpost.com/software/name-placeholder-c9a3sg)** | App that projects an art reference onto paper to teach you how to draw | Figma |
+| **[Remi](https://devpost.com/software/remi-76gsy2)** | Get quizzed on iMessage when your calendar is free | React · Express · Gemini |
 
 I also built the websites for the orgs I run: [**geminiatgt**](https://github.com/gaurimenonnn/geminiatgt) and [**productgt**](https://github.com/gaurimenonnn/productgt).
 
