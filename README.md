@@ -1,14 +1,10 @@
-<h1 align="center">Hi, I'm Gauri</h1>
+<h1 align="center">Hi, I'm Gauri!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=8338EC&center=true&vCenter=true&width=560&lines=Product+manager+who+builds.;Shipping+AI+products.;CS+%40+Georgia+Tech." alt="Product manager who builds. Shipping AI products. CS @ Georgia Tech." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=8338EC&center=true&vCenter=true&width=560&lines=CS+%40+Georgia+Tech;Technical+Product+Manager" alt="CS @ Georgia Tech · Technical Product Manager" />
 </p>
 
-<p align="center">
-  CS (Honors) @ Georgia Tech · I run the research, write the strategy, then build the thing that proves it works.
-</p>
-
-### Right now
+### About Me
 
 - **Incoming PM Intern @ Microsoft** (Summer 2027) on Copilot Agents & Platform, working on **Agent 365** and **Agent Cloud**
 - **PM Apprentice @ Microsoft**, shadowing a Principal PM on New Ventures & Commercialization
