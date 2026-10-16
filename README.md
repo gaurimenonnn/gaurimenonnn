@@ -1,60 +1,80 @@
-### Hi, I'm Gauri.
+<h1 align="center">Hi, I'm Gauri 👋</h1>
 
-I study Computer Science (Honors) at Georgia Tech and work as a product manager. I like doing both halves of the job: running the research and writing the strategy, then building the thing that shows it works. Lately that has mostly meant AI products.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=8338EC&center=true&vCenter=true&width=560&lines=Product+manager+who+builds.;Shipping+AI+products.;CS+%40+Georgia+Tech." alt="Product manager who builds. Shipping AI products. CS @ Georgia Tech." />
+</p>
 
-I'm looking for **Technical PM internships for summer 2027**.
+<p align="center">
+  CS (Honors) @ Georgia Tech · I run the research, write the strategy, then build the thing that proves it works.
+</p>
 
-#### Right now
+### 🚀 Right now
 
-- **Microsoft** · Product Management Apprentice, shadowing a Principal PM on the New Ventures and Commercialization team
-- **Google** · Student Ambassador (1 of 100 picked from 35K+ applicants), and I lead the [Gemini Campus Club @ Georgia Tech](https://geminiatgt.web.app)
-- **Product at Georgia Tech** · President of the largest product community on campus, 400+ members
+- 🪟 **Incoming PM Intern @ Microsoft** (Summer 2027) on Copilot Agents & Platform, working on **Agent 365** and **Agent Cloud**
+- 🌱 **PM Apprentice @ Microsoft**, shadowing a Principal PM on New Ventures & Commercialization
+- ✨ **Google Student Ambassador**, leading the [Gemini Campus Club @ Georgia Tech](https://geminiatgt.web.app)
+- 🧩 **President, [Product at Georgia Tech](https://productatgt.org)**, the largest product community on campus (400+ members)
 
-#### Things I've built
+### 🛠️ Things I've built
 
-**[Heirloom](https://github.com/gaurimenonnn/heirloom)** · 🏆 Best Use of Gemini API, Code with Gemini 2026\
-A memory for student clubs. You give it the minutes, budgets, and decks a club piles up, then ask it a question and get an answer with citations back to the source. Built solo. Instead of a RAG pipeline, it fits a whole club's archive into Gemini's context window, which is what the judges pointed to.\
-Node.js, Express, Gemini API, Google Cloud Run · [Live demo](https://heirloom-714361418245.us-central1.run.app) · [Devpost](https://devpost.com/software/heirloom-k3xf5a)
+| | Project | What it does | Built with |
+|:-:|---|---|---|
+| 🏆 | **[Heirloom](https://github.com/gaurimenonnn/heirloom)**<br><sub>Best Use of Gemini API</sub> | A memory for student clubs: ask it anything, get answers cited back to the source | Node.js · Express · Gemini · Cloud Run |
+| 🏆 | **[NeuroNest](https://devpost.com/software/neuronest-xsh1pr)**<br><sub>1st Place Design, Hack@WACC</sub> | Find places by how they'll *feel* (noise, light, crowds) | Figma · accessibility research |
+| 👗 | **[FitFindr](https://www.figma.com/proto/4FjAVa91bQ18dPsmK64jnw/fitfindr?node-id=20-2646)** | From a TikTok outfit to owning it, backed by 8 interviews and usability testing | Figma · UX research |
+| 💬 | **[Remi](https://devpost.com/software/remi-76gsy2)** | A study buddy that quizzes you over iMessage when your calendar is free | React · Express · Gemini · OAuth |
+| 🗺️ | **[GeoGuard](https://geoguardatl.netlify.app)** | Live crime heatmap that warns you before you walk into a risky area | React · Node.js · MongoDB · Maps API |
+| 🎨 | **[illustrAR](https://devpost.com/software/name-placeholder-c9a3sg)** | AR that projects a reference onto paper so you trace it by hand | Figma · AR |
 
-**[NeuroNest](https://devpost.com/software/neuronest-xsh1pr)** · 🏆 1st Place, Design Track, Hack@WACC 2025\
-Find places by how they will feel, not their star rating. Scores spots on noise, light, and crowding so neurodivergent people can know before they go. The interface itself is kept calm on purpose.\
-Figma, accessibility research · [Prototype](https://www.figma.com/proto/6UI3SXsXX3LsqWeYXUjPJO/WACC---NeuroNest?node-id=0-1&t=jEqgoo7K9IdJPcf7-1)
+I also build the sites for the orgs I run: [**geminiatgt**](https://github.com/gaurimenonnn/geminiatgt) and [**productgt**](https://github.com/gaurimenonnn/productgt).
 
-**[FitFindr](https://www.figma.com/proto/4FjAVa91bQ18dPsmK64jnw/fitfindr?node-id=20-2646)** · UI Design, Georgia Tech 2025\
-Closes the gap between seeing an outfit on TikTok and owning it. My most research heavy project: 8 interviews, a survey, a full prototype, and usability testing that changed the final screens.\
-UX research, Figma, usability testing
+### 🧰 Tech stack
 
-**[Remi](https://github.com/B3rK-3/HackPrinceton)** · HackPrinceton Fall 2025\
-A study buddy that lives in iMessage. It reads your calendar, finds the gaps, and sends a spaced repetition question when you have a minute to answer it.\
-React, Express, Gemini, OAuth · [Devpost](https://devpost.com/software/remi-76gsy2)
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**[GeoGuard](https://geoguardatl.netlify.app)** · HackGT 11, 2024\
-Turns Atlanta Police Department crime data into a live map that warns you before you walk into a high risk area, with a Lasso tool to check any region and an SOS button.\
-React, Node.js, MongoDB, Google Maps API · [Devpost](https://devpost.com/software/geoguard)
+**Web**<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**[illustrAR](https://devpost.com/software/name-placeholder-c9a3sg)** · Rice Designathon 2025\
-An AR app that projects an art reference onto real paper so you can trace and practice by hand. It helps the hand instead of replacing it.\
-Figma, AR
+**AI**<br>
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B3FE4?style=for-the-badge&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_%26_Vector_Search-FF6F61?style=for-the-badge)
 
-#### For the orgs I run
+**Data & cloud**<br>
+![AWS](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- **[geminiatgt](https://github.com/gaurimenonnn/geminiatgt)** · the Gemini Campus Club website, with Gigi, a small FAQ assistant
-- **[productgt](https://github.com/gaurimenonnn/productgt)** · the Product at Georgia Tech website and workflow automations
+**Product & design**<br>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_%26_Scrum-6DB33F?style=for-the-badge)
 
-#### Where I've worked
+### 💼 Before this
 
-- **Itential** · Product Management Intern, Spring 2026. Ran 15+ enterprise interviews across 7 personas and built a serverless AWS Lambda pipeline over Gong and Snowflake that captured 1.6K+ pain points.
-- **Microsoft** · Product Management Fellow, Spring 2026. Prototyped an AI first customer portal and an embedded copilot for the Office Engineering Direct team.
-- **Bits of Good** · Product Manager, Fall 2025. Led engineering, design, and nonprofit partners across 10 deployed products used by 300+ people.
-- **Itential** · Software Development Intern, Summer 2025. Built a RAG support platform with LlamaIndex and Qdrant that cut case resolution time by 30%.
-- **Georgia Tech CEISMC** · Teaching Assistant, Summer 2026. Taught CS and math to middle and high schoolers through game projects.
+**Microsoft** PM Fellow · **Itential** PM Intern & SWE Intern · **Bits of Good** PM · **Georgia Tech** CS TA
 
-#### What I work with
+### 📫 Say hi
 
-**Product** · user research, roadmapping, Agile and Scrum, A/B testing, Jira, Confluence, Maze, Figma\
-**AI** · LLMs, RAG, semantic search, vector databases, prompt engineering, copilots\
-**Build** · Python, JavaScript, TypeScript, Java, SQL, React, Node.js, AWS, Snowflake, Google Cloud
-
-#### Say hi
-
-[LinkedIn](https://linkedin.com/in/gaurimenonnn) · [Devpost](https://devpost.com/gaurimenonnn/) · [gaurimenon.cs@gmail.com](mailto:gaurimenon.cs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B)](https://linkedin.com/in/gaurimenonnn)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/gaurimenonnn/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurimenon.cs@gmail.com)
