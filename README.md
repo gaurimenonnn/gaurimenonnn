@@ -52,7 +52,7 @@
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile_%26_Scrum-6DB33F?style=for-the-badge)
 
-### Things I've built
+### Some Things I've built
 
 | Project | What it does | Built with |
 |---|---|---|
