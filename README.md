@@ -6,7 +6,6 @@
 
 ### About Me
 
-- **Incoming PM Intern @ Microsoft** (Summer 2027) on Copilot Agents & Platform, working on **Agent 365** and **Agent Cloud**
 - **2x PM Fellow @ Microsoft**, New Ventures & Commercialization (Fall 2026) | Office Engineering Direct (Spring 2026)
 - **Google Student Ambassador**, leading the [Gemini Campus Club @ Georgia Tech](https://geminiatgt.org)
 - **President, [Product at Georgia Tech](https://productatgt.org)**, the largest product community on campus (600+ members)
