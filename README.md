@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Gauri!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=9b90a6&center=true&vCenter=true&width=560&lines=CS+%40+Georgia+Tech;Technical+Product+Manager" alt="CS @ Georgia Tech · Technical Product Manager" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=E6E4DF&center=true&vCenter=true&width=560&lines=CS+%40+Georgia+Tech;Technical+Product+Manager" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=8C8A86&center=true&vCenter=true&width=560&lines=CS+%40+Georgia+Tech;Technical+Product+Manager" alt="CS @ Georgia Tech · Technical Product Manager" />
+  </picture>
 </p>
 
 ### About Me
